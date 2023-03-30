@@ -31,45 +31,67 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
+<h3>Step 1: Setup two virtual machine in Azure</h3>
+
+- Create two virtual machines DC-1 & Client-1
+You can create resource group in the sametime while creating virtul machine DC-1
+- The first virtual machine we create is the Domain Controller
+	- Name: DC-1 and Image is Windows Server 2022 
+	-- The second virtual machine will be the Client
+		- Name: Client-1
+		- Image: Windows 10 Pro
+		- Use the same resource group and vNet as DC-1
+ Again just like DC-1 take note of the virtual network (vNet) that is automatically created
+ Make sure both virtual machines have matching locations.
+  
+       
 <p>
 <img src="https://i.imgur.com/rJuIlEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h3>Step 1: Setup two virtual machine in Azure</h3>
+
+- Create two virtual machines DC-1 & Client-1
+You can create resource group in the sametime while creating virtul machine DC-1
+- The first virtual machine we create is the Domain Controller
+	- Name: DC-1 and Image is Windows Server 2022 
+	-- The second virtual machine will be the Client
+		- Name: Client-1
+		- Image: Windows 10 Pro
+		- Use the same resource group and vNet as DC-1
+ Again just like DC-1 take note of the virtual network (vNet) that is automatically created
+ Make sure both virtual machines have matching locations.
+
 
 <p>
 <img src="https://i.imgur.com/IMtE0q3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+ 
+	- Set DC-1's Virtual Network Interface Card (vNIC) private IP address to be static 
+		- Go to DC-1's network settings
+		- Select Networking
+
 
 <p>
 <img src="https://i.imgur.com/8vxGh4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- Select IP Configurations > ipconfig1
 
 <p>
 <img src="https://i.imgur.com/vleCSRa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Change the assignment from dynamic to static
+
 
 <p>
 <img src="https://i.imgur.com/hna2HnS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Double check in the IP configurations that DC-1 Private IP addreess is set to Static
 
 <p>
 <img src="https://i.imgur.com/UmmwhJ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

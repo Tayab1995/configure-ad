@@ -82,6 +82,16 @@ Double check in the IP configurations that DC-1 Private IP addreess is set to St
 </p>
 <p>
 
+<h3>Step 2: Ensure Connectivity Between the Client and Domain Controller</h3>
+
+- Login to Client-1 using Microsoft Remote Desktop
+- Search for Command Prompt and open it
+- Ping DC-1's private IP Address (for example, 10.0.0.4)
+- Type "ping -t 10.0.0.4" into the command-line interface
+- The ping request continually  times out due to the firewall settings
+- To fix this, we need to enable ICMPv4 on DC-1's local Windows firewall
+
+
 
 <p>
 <img src="https://i.imgur.com/UmmwhJ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

@@ -172,10 +172,15 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/4GdWkSY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+<h3>Step 4: Create an Admin and Normal User Account in Active Directory v1.15.8</h3>
+     
+- On DC-1, there’s two options to open Active Directory Users and Computers (ADUC)
+- Option 1 on your screen go to the bottom left corner next to start menu there’s a search bar type (Active Directory Users and Computers)
+- Second option is to open Server Manager
+ (Click tools) at the top-right of the screen.
+- Select Active Directory Users and Computers
+           
 <p>
 <img src="https://i.imgur.com/mCKSxxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

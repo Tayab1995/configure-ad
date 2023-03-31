@@ -408,6 +408,7 @@ Step 7: Create as many additional users as you would like and attempt to log int
 </p>
 <p>
 
+- To unlock users account right click on ursers name > Properties > Account then click on the box check to unlock account  "Image shown below"
 
 <p>
 <img src="https://i.imgur.com/YGvIDlf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

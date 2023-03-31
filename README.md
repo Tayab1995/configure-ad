@@ -421,18 +421,16 @@ Step 7: Create as many additional users as you would like and attempt to log int
 <img src="https://i.imgur.com/1U5s2VS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- To disable users account for offboarding procedure or for other reasons just right click on users name "image shown below"	
 
 <p>
 <img src="https://i.imgur.com/asCXluH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+- To enable users account for other reasons just right click on users name "image shown below"	
+	
 <p>
 <img src="https://i.imgur.com/fOl2DQY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

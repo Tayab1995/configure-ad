@@ -343,9 +343,11 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/bAhJDum.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+Step 7: Create as many additional users as you would like and attempt to log into Client-1 with one of the users' profiles
+- Log back into DC-1 as tayab_admin
+- Go to Active Directory Users and Computers "mydomain.com" > _EMPLOYEES this is where we observe users being created once we use Powershell script to run.
+	
 
 <p>
 <img src="https://i.imgur.com/rthoWGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

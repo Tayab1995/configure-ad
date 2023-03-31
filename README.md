@@ -378,9 +378,8 @@ Step 7: Create as many additional users as you would like and attempt to log int
 </p>
 <p>
 
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Once the users have been created, go back to Active Directory Users and Computers click  mydomain.com > _EMPLOYEES
+- You will see all the accounts that were created , you can aslo view it on powershell too
 
 <p>
 <img src="https://i.imgur.com/zFxxCdO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

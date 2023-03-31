@@ -326,17 +326,18 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/bC27j6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- Right-click the Start menu and select System	
 
 <p>
 <img src="https://i.imgur.com/EpA2uq5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- On the right-hand side of the screen, select Remote Desktop
+- Under User Accounts, click "Select Users That Can Remotely Access This PC > select Add
+- Type in the name of your domain users
+- Select "Check Names" click OK and OK again
 
 <p>
 <img src="https://i.imgur.com/bAhJDum.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

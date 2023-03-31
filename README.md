@@ -399,17 +399,15 @@ Step 7: Create as many additional users as you would like and attempt to log int
 <img src="https://i.imgur.com/6c9wRHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- To verfiy users name open command line and type whoami or hostname shown image below 
+- Other way to verfiy users and also see which users logged into Client-1 in the past is to open Files Explorer select pc then select windows C drive Shown image below
 
 <p>
 <img src="https://i.imgur.com/EZgbg3o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 <p>
 <img src="https://i.imgur.com/YGvIDlf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

@@ -269,9 +269,14 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/WRRulhg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- Go back to the Azure portal
+- Navigate to the Client-1 Virtual Machine
+- On the left-hand side of the screen select Networking
+- Select the link next to the NIC > select DNS Server > Custom
+- Type in DC-1's private IP address
+- Click Save
+- After it is done updating, select Restart and select Yes	
 
 <p>
 <img src="https://i.imgur.com/2lz8dC9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

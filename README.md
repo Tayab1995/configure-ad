@@ -289,9 +289,9 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/lsAQwLZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- On Client-1 open the commoand line type in "Ipconfig/all" 
+- Scorll down and look for the DNS server then observe the ip address numbers again, mines say "10.0.0.4"	
 
 <p>
 <img src="https://i.imgur.com/17jQZ4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

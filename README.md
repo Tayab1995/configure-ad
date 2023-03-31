@@ -363,6 +363,7 @@ Step 7: Create as many additional users as you would like and attempt to log int
 
 - At the top-left of the screen select New Script and paste the contents of the following script into it
 - You can find the powershell script [here](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
+- Once we run the script "1000 users" will automatically be created and "Password1" will be there password to login for now on.
 
 <p>
 <img src="https://i.imgur.com/sJ5pirD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

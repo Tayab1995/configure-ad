@@ -156,17 +156,17 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/4DY6pgY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- Create a password & Select Next and follow the prompts
+- Select Install to complete the installation
 
 <p>
 <img src="https://i.imgur.com/CAxowFh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- DC-1 should automatically restart
+- Proceed to log back into DC-1 as user: mydomain.com\labuser	
 
 <p>
 <img src="https://i.imgur.com/4GdWkSY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

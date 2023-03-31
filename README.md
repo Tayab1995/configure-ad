@@ -240,26 +240,31 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/RnowLm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+<h3>Step 5: Join Client-1 to your domain (mydomain.com)
+</h3>
+
+- Log back into Client-1 using Microsoft Remote Desktop as the original local admin (labuser)
+- Right-click the Start menu and select System
+- On right-hand side of the screen, select Rename This PC (Advanced) > Change
 
 <p>
 <img src="https://i.imgur.com/arBWiRk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- Under "Member of" select Domain
+- Type "mydomain.com" and select OK
+- Notice a tab will pop up on the screen saying DC-1 for domain.com could not be contatced this is becuase Client-1 private IP address is not set to DC-1 in the DNS Server	
 
 <p>
 <img src="https://i.imgur.com/8CChdyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+	
+- On Client-1 open the commoand line type in "Ipconfig/all" 
+- Scorll down and look for the DNS server then observe the ip address numbers
+	
 <p>
 <img src="https://i.imgur.com/WRRulhg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

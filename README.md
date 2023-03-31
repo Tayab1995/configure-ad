@@ -187,14 +187,14 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <p>
 
 - Right-click mydomain.com > New > Select Oranizational Unit (OU)
-- Create two OUs ( Oranizational Unit )
+- Create two OUs Oranizational Unit 
 	
 <p>
 <img src="https://i.imgur.com/88yXQXw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-- Name the first (_EMPLOYEES )
+- Name the first" _EMPLOYEES" 
 	
 <p>
 <img src="https://i.imgur.com/rKUrPAH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

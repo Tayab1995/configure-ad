@@ -436,6 +436,5 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 <img src="https://i.imgur.com/fOl2DQY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- "Thank you so much for taking the time to go through my tutorial demonstrations on implementation of on-premises Active Directory within Azure Virtul Machine . Your dedication and willingness to learn is truly admirable. I am glad that my tutorials were helpful and I hope that you found the information useful. Please do not hesitate to reach out if you have any questions or if there is anything else I can assist you with. Thanks again for your support!"	

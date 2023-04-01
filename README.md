@@ -434,4 +434,4 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 </p>
 <p>
 
-- "Thank you so much for taking the time to go through my tutorial demonstrations on implementation of on-premises Active Directory within Azure Virtul Machine . Your dedication and willingness to learn is truly admirable. I am glad that my tutorials were helpful and I hope that you found the information useful. Please do not hesitate to reach out if you have any questions or if there is anything else I can assist you with. Thanks again for your support!"	
+- "Thank you so much for taking the time to go through my tutorial demonstrations on implementation of on-premises Active Directory within Azure Virtual Machine . Your dedication and willingness to learn is truly admirable. I am glad that my tutorials were helpful and I hope that you found the information useful. Please do not hesitate to reach out if you have any questions or if there is anything else I can assist you with. Thanks again for your support!"	

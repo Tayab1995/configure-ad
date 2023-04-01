@@ -312,6 +312,9 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 </p>
 <p>
 
+<h3>Step 6: Setup Remote Desktop for non-administrative users on Client-1
+</h3>	
+
 - Log back into Client-1
 - Use mydomain.com\tayab_admin
 	
@@ -339,6 +342,7 @@ Start > Windows Administrative Tools > Windows Defender Firewall with Advanced S
 
 <h3>Step 7: Create as many additional users as you would like and attempt to log into Client-1 with one of the users' profiles
 </h3
+
 - Log back into DC-1 as tayab_admin
 - Go to Active Directory Users and Computers "mydomain.com" > _EMPLOYEES this is where we observe users being created once we use Powershell script to run.
 	
